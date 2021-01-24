@@ -1,0 +1,22 @@
+[ {
+  "carID" : "024e73a7-601a-4e74-82d5-e4ea5f6ac3d0",
+  "regNumber" : "FFF333",
+  "brand" : "Audi",
+  "model" : "A4",
+  "regDate" : "2017-12-01",
+  "owner" : "Kimi Eklund"
+}, {
+  "carID" : "e616d80e-9fc6-4eb7-ae51-0e281eac9c9e",
+  "regNumber" : "CCC999",
+  "brand" : "Volvo",
+  "model" : "V40",
+  "regDate" : "2019-01-01",
+  "owner" : "Xander Ekström"
+}, {
+  "carID" : "811434ff-a5b2-4ce3-af9e-934848f14ab0",
+  "regNumber" : "DDD777",
+  "brand" : "Volvo",
+  "model" : "V80",
+  "regDate" : "2020-09-01",
+  "owner" : "Filiph Lundberg"
+} ]

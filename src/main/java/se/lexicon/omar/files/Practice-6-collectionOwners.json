@@ -1,0 +1,13 @@
+[ {
+  "ownerID" : 1,
+  "name" : "Kimi Eklund",
+  "birthdate" : "1990-01-01"
+}, {
+  "ownerID" : 2,
+  "name" : "Xander Ekström",
+  "birthdate" : "1977-05-01"
+}, {
+  "ownerID" : 3,
+  "name" : "Filiph Lundberg",
+  "birthdate" : "1987-09-01"
+} ]
